@@ -1,0 +1,7 @@
+{
+  "name": "tainacanapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
